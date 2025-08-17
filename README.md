@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="banner.gif">
+  <img src="banner.jpg">
 </p>
-<h3 align="center">Soy Christian, ya a mediados de la carrera de Ing. en sistemas.</h3>
-<h4 align="center">Soy un programador junior y podran ver mis proyectos tanto de la facultad como propios en este github en lenguajes como: C, C#, Javascript, Python, HTML+CSS, etc.<br>
-  Mi pagina en proceso: https://chrisngdc.github.io/<br><br>
-💻Workflow: Git, Github
+<h4 align="center">I'm Christian, software development technician. Here you would find my projects for college and personal too. I've used Angular as a framework for frontend and Nodejs for backend. Used relational (SQL) and not relational (MongoDB) databases. And also all of this in the cloud with Amazon AWS Services. I'm currently learning Python in full.<br><br>
+💻Workflow: Git, Github, Gitlab, BitBucket
 <br>
 💻SO: Windows
 </h4>
